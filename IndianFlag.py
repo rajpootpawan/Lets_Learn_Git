@@ -6,6 +6,7 @@ import turtle
 screen = turtle.Screen()
 
 screen.setup(width=580, height=550)
+#Name of the Flag
 screen.title("Indian Flag")
 
 # Create a turtle object
