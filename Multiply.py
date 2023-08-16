@@ -3,4 +3,4 @@ class multiplication:
         c=a+b
         return c
 add1=multiplication()
-print(add1.multi(4,5))
+print("Multiplication is: ",add1.multi(4,5))
