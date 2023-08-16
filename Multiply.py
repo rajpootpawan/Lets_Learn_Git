@@ -2,5 +2,5 @@ class multiplication:
     def multi(self,a,b):
         c=a+b
         return c
-add1=multiplication()
-print("Multiplication is: ",add1.multi(4,5))
+multiply=multiplication()
+print("Multiplication is: ",multiply.multi(4,5))
